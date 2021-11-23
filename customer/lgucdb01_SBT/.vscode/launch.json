@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-lgucdb01Main<lgucdb01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bluescript.demo.lgucdb01Main",
+            "projectName": "lgucdb01",
+            "args": ""
+        }
+    ]
+}

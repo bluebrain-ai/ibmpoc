@@ -1,0 +1,9 @@
+com\bluescript\demo\entity\CustomerSecureEntity.class
+com\bluescript\demo\lgacdb02Main.class
+com\bluescript\demo\jpa\IInsertCustomerSecureJpa.class
+com\bluescript\demo\model\Db2Customer.class
+com\bluescript\demo\model\EmVariable.class
+com\bluescript\demo\model\Dfhcommarea.class
+com\bluescript\demo\model\ErrorMsg.class
+com\bluescript\demo\model\WsHeader.class
+com\bluescript\demo\Lgacdb02.class

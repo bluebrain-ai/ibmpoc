@@ -1,0 +1,127 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.bluescript.demo:lgucus01 >--------------------
+[INFO] Building lgucus01 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:3.1.0:clean (default-clean) @ lgucus01 ---
+[INFO] 
+[INFO] --- formatter-maven-plugin:2.14.0:format (default) @ lgucus01 ---
+[INFO] Using 'UTF-8' encoding to format source files.
+[INFO] Number of files to be formatted: 16
+[INFO] Successfully formatted:          15 file(s)
+[INFO] Fail to format:                  0 file(s)
+[INFO] Skipped:                         1 file(s)
+[INFO] Read only skipped:               0 file(s)
+[INFO] Approximate time taken:          0s
+[INFO] 
+[INFO] --- maven-resources-plugin:3.2.0:resources (default-resources) @ lgucus01 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Using 'UTF-8' encoding to copy filtered properties files.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.2:compile (default-compile) @ lgucus01 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 16 source files to D:\BLUESCRIPT_DEMO\End-2-EndTestData\JavaMicroservices\lgucus01_SBT\target\classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[87,5] illegal start of type
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[87,16] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[90,18] ')' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[90,26] not a statement
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[90,30] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,20] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,137] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,138] illegal start of type
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,178] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,179] illegal start of type
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,211] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,234] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,263] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,267] illegal start of type
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,293] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[95,40] not a statement
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[98,5] invalid method declaration; return type required
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[117,177] ')' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[119,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[126,40] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,93] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,94] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,123] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,124] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,129] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[131,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[136,53] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,97] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,98] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,127] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,128] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,133] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[139,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[143,138] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,97] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,98] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,127] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,128] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,133] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[146,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[156,2] class, interface, or enum expected
+[INFO] 41 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.308 s
+[INFO] Finished at: 2021-11-19T22:27:16+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.6.2:compile (default-compile) on project lgucus01: Compilation failure: Compilation failure: 
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[87,5] illegal start of type
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[87,16] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[90,18] ')' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[90,26] not a statement
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[90,30] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,20] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,137] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,138] illegal start of type
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,178] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,179] illegal start of type
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,211] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,234] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,263] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,267] illegal start of type
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[93,293] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[95,40] not a statement
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[98,5] invalid method declaration; return type required
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[117,177] ')' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[119,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[126,40] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,93] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,94] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,123] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,124] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[129,129] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[131,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[136,53] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,97] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,98] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,127] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,128] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[137,133] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[139,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[143,138] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,97] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,98] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,127] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,128] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[144,133] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[146,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgucus01_SBT/src/main/java/com/bluescript/demo/Lgucus01.java:[156,2] class, interface, or enum expected
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException

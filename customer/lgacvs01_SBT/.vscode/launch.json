@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-lgacvs01Main<lgacvs01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bluescript.demo.lgacvs01Main",
+            "projectName": "lgacvs01",
+            "args": ""
+        }
+    ]
+}

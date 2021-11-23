@@ -1,0 +1,93 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.bluescript.demo:lgacvs01 >--------------------
+[INFO] Building lgacvs01 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:3.1.0:clean (default-clean) @ lgacvs01 ---
+[INFO] 
+[INFO] --- formatter-maven-plugin:2.14.0:format (default) @ lgacvs01 ---
+[INFO] Using 'UTF-8' encoding to format source files.
+[INFO] Number of files to be formatted: 15
+[INFO] Successfully formatted:          14 file(s)
+[INFO] Fail to format:                  0 file(s)
+[INFO] Skipped:                         1 file(s)
+[INFO] Read only skipped:               0 file(s)
+[INFO] Approximate time taken:          0s
+[INFO] 
+[INFO] --- maven-resources-plugin:3.2.0:resources (default-resources) @ lgacvs01 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Using 'UTF-8' encoding to copy filtered properties files.
+[INFO] Copying 1 resource
+[INFO] Copying 0 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.2:compile (default-compile) @ lgacvs01 ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 15 source files to D:\BLUESCRIPT_DEMO\End-2-EndTestData\JavaMicroservices\lgacvs01_SBT\target\classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[17,41] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[109,5] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[117,40] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,93] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,94] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,123] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,124] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,129] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[122,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[127,53] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,97] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,98] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,127] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,128] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,133] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[130,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[134,138] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,97] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,98] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,127] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,128] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,133] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[137,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[147,2] class, interface, or enum expected
+[INFO] 24 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.969 s
+[INFO] Finished at: 2021-11-20T23:45:19+05:30
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.6.2:compile (default-compile) on project lgacvs01: Compilation failure: Compilation failure: 
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[17,41] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[109,5] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[117,40] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,93] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,94] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,123] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,124] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[120,129] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[122,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[127,53] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,97] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,98] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,127] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,128] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[128,133] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[130,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[134,138] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,97] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,98] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,127] illegal start of expression
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,128] <identifier> expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[135,133] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[137,33] ';' expected
+[ERROR] /D:/BLUESCRIPT_DEMO/End-2-EndTestData/JavaMicroservices/lgacvs01_SBT/src/main/java/com/bluescript/demo/Lgacvs01.java:[147,2] class, interface, or enum expected
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException

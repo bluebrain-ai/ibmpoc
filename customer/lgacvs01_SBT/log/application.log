@@ -1,0 +1,25 @@
+2021-11-22 16:54:46.153  INFO 1888 --- [main] com.bluescript.demo.lgacvs01Main         : Starting lgacvs01Main using Java 14 on LAPTOP-1RPTTI2Q with PID 1888 (D:\BLUESCRIPT_DEMO\End-2-EndTestData\JavaMicroservices\Customer\lgacvs01_SBT\target\classes started by jarvi in d:\BLUESCRIPT_DEMO\End-2-EndTestData\JavaMicroservices\Customer\lgacvs01_SBT)
+2021-11-22 16:54:46.157  INFO 1888 --- [main] com.bluescript.demo.lgacvs01Main         : No active profile set, falling back to default profiles: default
+2021-11-22 16:54:46.999  INFO 1888 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-11-22 16:54:47.002  INFO 1888 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2021-11-22 16:54:47.036  INFO 1888 --- [main] .RepositoryConfigurationExtensionSupport : Spring Data JPA - Could not safely identify store assignment for repository candidate interface com.bluescript.demo.repository.KsdscustRepository. If you want this repository to be a JPA repository, consider annotating your entities with one of these annotations: javax.persistence.Entity, javax.persistence.MappedSuperclass (preferred), or consider extending one of the following types with your repository: org.springframework.data.jpa.repository.JpaRepository.
+2021-11-22 16:54:47.037  INFO 1888 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 25 ms. Found 0 JPA repository interfaces.
+2021-11-22 16:54:47.058  INFO 1888 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode!
+2021-11-22 16:54:47.059  INFO 1888 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2021-11-22 16:54:47.183  INFO 1888 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 114 ms. Found 1 Redis repository interfaces.
+2021-11-22 16:54:47.657  INFO 1888 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 6081 (http)
+2021-11-22 16:54:47.677  INFO 1888 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-11-22 16:54:47.678  INFO 1888 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-11-22 16:54:47.765  INFO 1888 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-11-22 16:54:47.780  INFO 1888 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1585 ms
+2021-11-22 16:54:48.017  INFO 1888 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-11-22 16:54:48.108  INFO 1888 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.32.Final
+2021-11-22 16:54:48.238  INFO 1888 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2021-11-22 16:54:48.328  INFO 1888 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-11-22 16:54:48.459  INFO 1888 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-11-22 16:54:48.472  INFO 1888 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-11-22 16:54:48.739  INFO 1888 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-11-22 16:54:48.743  INFO 1888 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-11-22 16:54:49.467  WARN 1888 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-11-22 16:54:50.092  INFO 1888 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 6081 (http) with context path ''
+2021-11-22 16:54:50.359  INFO 1888 --- [main] com.bluescript.demo.lgacvs01Main         : Started lgacvs01Main in 4.491 seconds (JVM running for 4.942)

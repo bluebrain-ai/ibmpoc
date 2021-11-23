@@ -1,0 +1,16 @@
+com\bluescript\demo\model\CaCustsecrRequest.class
+com\bluescript\demo\model\CaPolicyCommon.class
+com\bluescript\demo\model\EmVariable.class
+com\bluescript\demo\model\CaMotor.class
+com\bluescript\demo\model\Dfhcommarea.class
+com\bluescript\demo\model\CaCommercial.class
+com\bluescript\demo\Lgacvs01.class
+com\bluescript\demo\model\CaHouse.class
+com\bluescript\demo\entity\ksdsCustEntity.class
+com\bluescript\demo\model\ErrorMsg.class
+com\bluescript\demo\lgacvs01Main.class
+com\bluescript\demo\model\CaClaim.class
+com\bluescript\demo\model\CaPolicyRequest.class
+com\bluescript\demo\model\CaEndowment.class
+com\bluescript\demo\model\CaCustomerRequest.class
+com\bluescript\demo\repository\KsdscustRepository.class

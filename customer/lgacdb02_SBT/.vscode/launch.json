@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-lgacdb02Main<lgacdb02>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.bluescript.demo.lgacdb02Main",
+            "projectName": "lgacdb02",
+            "args": ""
+        }
+    ]
+}
